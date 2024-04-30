@@ -3,6 +3,24 @@
 A git to deal with HK lot. The lot consists of 2 parts "Lot Abbr" and "Lot Number", in which "Lot Abbr" is a string and "Lot Number" is an integer.
 Details can be found in <https://www.map.gov.hk/gm/map/search/lot>.
 
+## Usages
+
+To parse a lot, you may use the following snippets, where the `LotAbbr` and `LotNumber` are used as a query parameter.
+
+```cs
+var lot1 = new Lot("DD87 339");
+
+lot1.IsSuccessful; // true
+lot1.LotAbbr; // DD 87
+lot1.LotNumber; // 339
+
+var lot2 = new Lot("DD 37 TLL 105");
+
+lot2.IsSuccessful; // true
+lot2.LotAbbr; // DD 37 TLL
+lot2.LotNumber; // 105
+```
+
 ## Query
 
 ### Lot
