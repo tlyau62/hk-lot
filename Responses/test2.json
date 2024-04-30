@@ -1,0 +1,4525 @@
+{
+  "displayFieldName": "cislotdisplayname",
+  "fieldAliases": {
+    "objectid": "objectid",
+    "lastupdatedate": "lastupdatedate",
+    "lotid": "lotid",
+    "lotcode": "LOTCODE",
+    "lotnumber": "lotnumber",
+    "lotnumberalpha": "lotnumberalpha",
+    "sectioncode": "sectioncode",
+    "lottype": "LOTTYPE",
+    "cislotdisplayname": "cislotdisplayname",
+    "lotcodedisplay": "lotcodedisplay",
+    "prn": "prn",
+    "lotcsuid": "lotcsuid",
+    "st_area(shape)": "st_area(shape)",
+    "st_length(shape)": "st_length(shape)"
+  },
+  "geometryType": "esriGeometryPolygon",
+  "spatialReference": { "wkid": 102140, "latestWkid": 2326 },
+  "fields": [
+    { "name": "objectid", "type": "esriFieldTypeOID", "alias": "objectid" },
+    {
+      "name": "lastupdatedate",
+      "type": "esriFieldTypeDate",
+      "alias": "lastupdatedate",
+      "length": 8
+    },
+    { "name": "lotid", "type": "esriFieldTypeInteger", "alias": "lotid" },
+    {
+      "name": "lotcode",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "LOTCODE"
+    },
+    {
+      "name": "lotnumber",
+      "type": "esriFieldTypeInteger",
+      "alias": "lotnumber"
+    },
+    {
+      "name": "lotnumberalpha",
+      "type": "esriFieldTypeString",
+      "alias": "lotnumberalpha",
+      "length": 4
+    },
+    {
+      "name": "sectioncode",
+      "type": "esriFieldTypeString",
+      "alias": "sectioncode",
+      "length": 16
+    },
+    {
+      "name": "lottype",
+      "type": "esriFieldTypeString",
+      "alias": "LOTTYPE",
+      "length": 4
+    },
+    {
+      "name": "cislotdisplayname",
+      "type": "esriFieldTypeString",
+      "alias": "cislotdisplayname",
+      "length": 50
+    },
+    {
+      "name": "lotcodedisplay",
+      "type": "esriFieldTypeString",
+      "alias": "lotcodedisplay",
+      "length": 24
+    },
+    {
+      "name": "prn",
+      "type": "esriFieldTypeString",
+      "alias": "prn",
+      "length": 8
+    },
+    {
+      "name": "lotcsuid",
+      "type": "esriFieldTypeString",
+      "alias": "lotcsuid",
+      "length": 29
+    },
+    {
+      "name": "st_area(shape)",
+      "type": "esriFieldTypeDouble",
+      "alias": "st_area(shape)"
+    },
+    {
+      "name": "st_length(shape)",
+      "type": "esriFieldTypeDouble",
+      "alias": "st_length(shape)"
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "objectid": 645,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138833,
+        "lotcode": 7940,
+        "lotnumber": 86,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 86",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674028",
+        "lotcsuid": "7940   86",
+        "st_area(shape)": 27.248752440000001,
+        "st_length(shape)": 23.939851514809135
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821709.81850000005, 834311.7182],
+            [821708.37440000009, 834302.90020000003],
+            [821705.37909999955, 834303.4199000001],
+            [821706.78120000008, 834312.19800000079],
+            [821709.81850000005, 834311.7182]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 2980,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1810060096,
+        "lotcode": 7940,
+        "lotnumber": 81,
+        "lotnumberalpha": null,
+        "sectioncode": "RP",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 81 RP",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "D2472153",
+        "lotcsuid": "7940   81    RP",
+        "st_area(shape)": 32.2230615,
+        "st_length(shape)": 25.911399768649741
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821682.23400000017, 834317.24000000022],
+            [821685.52799999993, 834316.59300000034],
+            [821683.67700000014, 834307.17400000058],
+            [821680.38300000038, 834307.82200000063],
+            [821682.23400000017, 834317.24000000022]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 6453,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139150,
+        "lotcode": 7940,
+        "lotnumber": 74,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 74",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593356",
+        "lotcsuid": "7940   74",
+        "st_area(shape)": 31.606381979999998,
+        "st_length(shape)": 24.731051702976227
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821705.24739999976, 834302.02850000001],
+            [821708.79349999968, 834301.46890000068],
+            [821707.42899999954, 834292.82149999961],
+            [821703.84329999983, 834293.38480000012],
+            [821705.24739999976, 834302.02850000001]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 15552,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139655,
+        "lotcode": 7940,
+        "lotnumber": 69,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 69",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5311649",
+        "lotcsuid": "7940   69",
+        "st_area(shape)": 29.617971449999999,
+        "st_length(shape)": 24.868217705922213
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821735.79729999974, 834286.43249999918],
+            [821734.01829999965, 834277.40579999983],
+            [821730.94730000012, 834277.91269999929],
+            [821732.21659999993, 834285.2536999993],
+            [821732.51939999964, 834287.00469999947],
+            [821732.94639999978, 834286.90289999917],
+            [821735.79729999974, 834286.43249999918]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 29587,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800140456,
+        "lotcode": 7940,
+        "lotnumber": 13,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 13",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593324",
+        "lotcsuid": "7940   13",
+        "st_area(shape)": 28.344192469999999,
+        "st_length(shape)": 24.983609511732833
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821689.99619999994, 834259.91349999979],
+            [821693.00459999964, 834259.35370000079],
+            [821691.15799999982, 834250.01700000092],
+            [821688.30900000036, 834250.55839999951],
+            [821689.99619999994, 834259.91349999979]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 39554,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139703,
+        "lotcode": 7940,
+        "lotnumber": 46,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 46",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6051516",
+        "lotcsuid": "7940   46",
+        "st_area(shape)": 61.546645859999998,
+        "st_length(shape)": 31.88920612652187
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821672.56230000034, 834285.33929999918],
+            [821678.99000000022, 834284.07129999995],
+            [821677.17779999971, 834274.84200000018],
+            [821670.75059999991, 834276.14110000059],
+            [821672.56230000034, 834285.33929999918]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 41813,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139691,
+        "lotcode": 7940,
+        "lotnumber": 47,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 47",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673739",
+        "lotcsuid": "7940   47",
+        "st_area(shape)": 30.687467139999999,
+        "st_length(shape)": 25.286645907458258
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821669.34819999989, 834285.97340000048],
+            [821672.56230000034, 834285.33929999918],
+            [821670.75059999991, 834276.14110000059],
+            [821667.53949999996, 834276.79020000063],
+            [821669.34819999989, 834285.97340000048]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 44013,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140240,
+        "lotcode": 7940,
+        "lotnumber": 29,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 29",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5967774",
+        "lotcsuid": "7940   29",
+        "st_area(shape)": 28.587157999999999,
+        "st_length(shape)": 25.120213076229714
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821722.43499999959, 834267.1129999999],
+            [821720.71800000034, 834257.67100000009],
+            [821717.79600000009, 834258.21800000034],
+            [821719.47900000028, 834267.61999999918],
+            [821722.43499999959, 834267.1129999999]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 50671,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139487,
+        "lotcode": 7940,
+        "lotnumber": 62,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 62",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5827014",
+        "lotcsuid": "7940   62",
+        "st_area(shape)": 36.676082119999997,
+        "st_length(shape)": 26.903303977141459
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821704.14389999956, 834291.91919999942],
+            [821707.9458999997, 834291.31310000084],
+            [821706.41959999967, 834281.80089999922],
+            [821702.71079999954, 834282.35679999925],
+            [821704.14389999956, 834291.91919999942]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 53869,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140227,
+        "lotcode": 7940,
+        "lotnumber": 26,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 26",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673580",
+        "lotcsuid": "7940   26",
+        "st_area(shape)": 29.427775950000001,
+        "st_length(shape)": 25.386301986354738
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821707.95480000041, 834268.05810000002],
+            [821710.98099999968, 834267.48479999974],
+            [821709.1930999998, 834258.0175999999],
+            [821706.21879999992, 834258.56880000047],
+            [821707.95480000041, 834268.05810000002]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 54977,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140726,
+        "lotcode": 7940,
+        "lotnumber": 1,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 1 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261008",
+        "lotcsuid": "7940    1    B",
+        "st_area(shape)": 31.674227500000001,
+        "st_length(shape)": 25.766753959814917
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821675.92080000043, 834241.3900000006],
+            [821672.67229999974, 834241.99400000088],
+            [821674.32320000045, 834251.42380000092],
+            [821677.5800999999, 834250.82259999961],
+            [821675.92080000043, 834241.3900000006]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 55183,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138741,
+        "lotcode": 7940,
+        "lotnumber": 83,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 83",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674009",
+        "lotcsuid": "7940   83",
+        "st_area(shape)": 31.113709539999999,
+        "st_length(shape)": 25.494192242262965
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821689.13080000039, 834315.70089999959],
+            [821692.30159999989, 834315.07049999945],
+            [821690.49260000046, 834305.77879999951],
+            [821687.21320000011, 834306.44969999976],
+            [821689.13080000039, 834315.70089999959]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 60824,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139497,
+        "lotcode": 7940,
+        "lotnumber": 0,
+        "lotnumberalpha": null,
+        "sectioncode": "HLB",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL HLB",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": null,
+        "lotcsuid": "7940    0    HLB",
+        "st_area(shape)": 33.903848109999998,
+        "st_length(shape)": 33.998892212576138
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821643.31199999992, 834291.20289999992],
+            [821641.93570000026, 834284.42620000057],
+            [821645.34240000043, 834283.75899999961],
+            [821644.77699999977, 834281.09190000035],
+            [821644.15050000045, 834278.41709999926],
+            [821639.30449999962, 834280.09009999968],
+            [821642.03610000014, 834290.10190000013],
+            [821642.37760000024, 834291.65939999931],
+            [821643.31199999992, 834291.20289999992]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 61410,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140409,
+        "lotcode": 7940,
+        "lotnumber": 16,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 16",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983585",
+        "lotcsuid": "7940   16",
+        "st_area(shape)": 36.234700019999998,
+        "st_length(shape)": 26.633769827857691
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821679.90089999977, 834261.77390000038],
+            [821683.69400000013, 834261.0859999992],
+            [821681.99100000039, 834251.73420000076],
+            [821678.28199999966, 834252.40960000083],
+            [821679.90089999977, 834261.77390000038]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 64769,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138946,
+        "lotcode": 7940,
+        "lotnumber": 91,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 91",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983645",
+        "lotcsuid": "7940   91",
+        "st_area(shape)": 21.038726520000001,
+        "st_length(shape)": 21.827794610270271
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821727.16000000015, 834308.59899999946],
+            [821729.65730000008, 834308.12209999934],
+            [821728.08700000029, 834300.4598999992],
+            [821727.97190000024, 834299.87549999915],
+            [821725.55300000031, 834300.35099999979],
+            [821727.16000000015, 834308.59899999946]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 66820,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139306,
+        "lotcode": 7940,
+        "lotnumber": 56,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 56 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673870",
+        "lotcsuid": "7940   56    A",
+        "st_area(shape)": 30.37439286,
+        "st_length(shape)": 25.502821690320346
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821672.61930000037, 834286.83899999969],
+            [821669.5148, 834287.40330000035],
+            [821671.29970000032, 834296.83339999989],
+            [821674.42750000022, 834296.23120000027],
+            [821672.61930000037, 834286.83899999969]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 68485,
+        "lastupdatedate": 1701734400000,
+        "lotid": 1800140289,
+        "lotcode": 7940,
+        "lotnumber": 32,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 32",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673639",
+        "lotcsuid": "7940   32",
+        "st_area(shape)": 32.954557149999999,
+        "st_length(shape)": 26.040612798971111
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821732.2379999999, 834265.34549999982],
+            [821730.47970000003, 834255.91760000028],
+            [821727.08519999962, 834256.53370000049],
+            [821728.85960000008, 834265.93799999915],
+            [821732.2379999999, 834265.34549999982]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 71626,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138854,
+        "lotcode": 7940,
+        "lotnumber": 87,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 87",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674033",
+        "lotcsuid": "7940   87",
+        "st_area(shape)": 27.784925075,
+        "st_length(shape)": 24.11208852529413
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821709.81850000005, 834311.7182],
+            [821712.8805999998, 834311.23450000025],
+            [821711.43819999974, 834302.38199999928],
+            [821708.37440000009, 834302.90020000003],
+            [821709.81850000005, 834311.7182]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 72379,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138022,
+        "lotcode": 7940,
+        "lotnumber": 121,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 121",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983687",
+        "lotcsuid": "7940  121",
+        "st_area(shape)": 35.488282320000003,
+        "st_length(shape)": 26.174795280400634
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821737.70629999973, 834330.06519999914],
+            [821733.95330000017, 834330.82939999923],
+            [821735.77909999993, 834339.90279999934],
+            [821739.54229999986, 834339.12859999947],
+            [821737.70629999973, 834330.06519999914]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 76070,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139503,
+        "lotcode": 7940,
+        "lotnumber": 63,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 63",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5311631",
+        "lotcsuid": "7940   63",
+        "st_area(shape)": 32.389074870000002,
+        "st_length(shape)": 25.971440084157024
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821707.9458999997, 834291.31310000084],
+            [821711.27139999997, 834290.78289999999],
+            [821709.75009999983, 834281.30179999955],
+            [821706.41959999967, 834281.80089999922],
+            [821707.9458999997, 834291.31310000084]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 80953,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138996,
+        "lotcode": 7940,
+        "lotnumber": 93,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 93",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6663080",
+        "lotcsuid": "7940   93",
+        "st_area(shape)": 59.065956055000001,
+        "st_length(shape)": 30.871683661938103
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821736.02560000028, 834306.8713000007],
+            [821742.91399999987, 834305.51830000058],
+            [821741.3208999997, 834297.39120000042],
+            [821741.29320000019, 834297.2508000005],
+            [821734.41930000018, 834298.60520000011],
+            [821734.49210000038, 834298.97470000014],
+            [821736.02560000028, 834306.8713000007]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 81852,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138057,
+        "lotcode": 7940,
+        "lotnumber": 119,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 119",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674279",
+        "lotcsuid": "7940  119",
+        "st_area(shape)": 30.003276745000001,
+        "st_length(shape)": 24.971332397147179
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821742.7257000003, 834338.47369999997],
+            [821745.89950000029, 834337.8208000008],
+            [821744.08100000024, 834328.76710000075],
+            [821740.8909, 834329.41669999994],
+            [821742.7257000003, 834338.47369999997]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 83297,
+        "lastupdatedate": 1701734400000,
+        "lotid": 1800139604,
+        "lotcode": 7940,
+        "lotnumber": 139,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 139",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674372",
+        "lotcsuid": "7940  139",
+        "st_area(shape)": 23.8460687,
+        "st_length(shape)": 20.913993654801043
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821660.59949999955, 834287.73359999992],
+            [821659.17810000014, 834280.77969999984],
+            [821655.88399999961, 834281.4422999993],
+            [821657.30510000046, 834288.39470000006],
+            [821660.59949999955, 834287.73359999992]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 84750,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140802,
+        "lotcode": 7940,
+        "lotnumber": 5,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 5",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673471",
+        "lotcsuid": "7940    5",
+        "st_area(shape)": 27.49591199,
+        "st_length(shape)": 24.900927508458768
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821693.33849999961, 834247.87260000035],
+            [821691.5672000004, 834238.45869999938],
+            [821688.74670000002, 834238.98939999938],
+            [821690.51850000024, 834248.40599999949],
+            [821693.33849999961, 834247.87260000035]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 84783,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139581,
+        "lotcode": 7940,
+        "lotnumber": 67,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 67",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5393505",
+        "lotcsuid": "7940   67",
+        "st_area(shape)": 30.382210695000001,
+        "st_length(shape)": 25.292105596510357
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821723.0307, 834288.90100000054],
+            [821726.20490000024, 834288.31680000015],
+            [821724.52869999968, 834279.00109999999],
+            [821721.37480000034, 834279.67400000058],
+            [821723.0307, 834288.90100000054]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 89422,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138317,
+        "lotcode": 7940,
+        "lotnumber": 123,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 123",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593366",
+        "lotcsuid": "7940  123",
+        "st_area(shape)": 12.926809994999999,
+        "st_length(shape)": 14.624325506002913
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821731.60209999979, 834329.86250000075],
+            [821730.78699999955, 834325.64149999991],
+            [821727.86880000029, 834326.22440000065],
+            [821728.65519999992, 834330.48919999972],
+            [821731.60209999979, 834329.86250000075]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 91676,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140838,
+        "lotcode": 7940,
+        "lotnumber": 7,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 7",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673492",
+        "lotcsuid": "7940    7",
+        "st_area(shape)": 30.443331959999998,
+        "st_length(shape)": 25.517761145112278
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821699.67760000005, 834246.67339999974],
+            [821697.93209999986, 834237.25349999964],
+            [821694.68979999982, 834237.8674999997],
+            [821696.67509999964, 834247.24139999971],
+            [821699.67760000005, 834246.67339999974]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 92743,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139357,
+        "lotcode": 7940,
+        "lotnumber": 136,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 136",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6717908",
+        "lotcsuid": "7940  136",
+        "st_area(shape)": 29.6718777,
+        "st_length(shape)": 25.261238208428658
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821678.01659999974, 834295.54020000063],
+            [821681.11959999986, 834294.94280000031],
+            [821681.11180000007, 834294.90359999985],
+            [821679.26539999992, 834285.63089999929],
+            [821676.23500000034, 834286.18180000037],
+            [821678.01659999974, 834295.54020000063]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 93067,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1810117689,
+        "lotcode": 7940,
+        "lotnumber": 117,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 117",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674252",
+        "lotcsuid": "7940  117",
+        "st_area(shape)": 35.376562999999997,
+        "st_length(shape)": 23.798850812981414
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821610.98300000001, 834258.88599999994],
+            [821616.10400000028, 834255.57200000063],
+            [821612.95299999975, 834250.70299999975],
+            [821607.8320000004, 834254.01700000092],
+            [821610.98300000001, 834258.88599999994]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 95672,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800359958,
+        "lotcode": 7940,
+        "lotnumber": 39,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 39",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983606",
+        "lotcsuid": "7940   39",
+        "st_area(shape)": 36.172379210000003,
+        "st_length(shape)": 26.924801951676287
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821709.90799999982, 834279.92699999921],
+            [821708.30200000014, 834270.41200000048],
+            [821708.32400000002, 834270.40899999999],
+            [821708.31940000039, 834270.39079999924],
+            [821708.3021999998, 834270.32210000046],
+            [821704.62200000044, 834270.87099999934],
+            [821706.2070000004, 834280.44600000046],
+            [821709.90799999982, 834279.92699999921]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 99789,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800358862,
+        "lotcode": 7940,
+        "lotnumber": 41,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 41",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6588859",
+        "lotcsuid": "7940   41",
+        "st_area(shape)": 33.883865,
+        "st_length(shape)": 26.310153755884269
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821699.82600000035, 834281.27800000086],
+            [821703.31500000041, 834280.82300000079],
+            [821701.70299999975, 834271.29499999993],
+            [821698.22300000023, 834271.80100000091],
+            [821699.82600000035, 834281.27800000086]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 100818,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138792,
+        "lotcode": 7940,
+        "lotnumber": 85,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 85",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6080256",
+        "lotcsuid": "7940   85",
+        "st_area(shape)": 35.914021245000001,
+        "st_length(shape)": 25.99928336898607
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821702.92850000039, 834312.98029999994],
+            [821701.48230000027, 834304.09600000083],
+            [821697.54719999991, 834304.77869999968],
+            [821699.01840000041, 834313.68850000016],
+            [821702.92850000039, 834312.98029999994]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 103125,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138441,
+        "lotcode": 7940,
+        "lotnumber": 112,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 112",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674213",
+        "lotcsuid": "7940  112",
+        "st_area(shape)": 32.147767600000002,
+        "st_length(shape)": 25.639748714851734
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821751.00499999989, 834325.93200000003],
+            [821754.34800000023, 834325.21000000089],
+            [821752.40600000042, 834316.01300000027],
+            [821750, 834316.5326000005],
+            [821749.06300000008, 834316.7349999994],
+            [821750, 834321.1724999994],
+            [821751.00499999989, 834325.93200000003]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 104843,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138567,
+        "lotcode": 7940,
+        "lotnumber": 100,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 100",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674113",
+        "lotcsuid": "7940  100",
+        "st_area(shape)": 32.698319759999997,
+        "st_length(shape)": 25.685811244480732
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821715.09700000007, 834312.46600000001],
+            [821716.94400000013, 834321.63800000027],
+            [821720.36780000012, 834320.95600000024],
+            [821718.54289999977, 834311.8060999997],
+            [821715.09700000007, 834312.46600000001]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 108515,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138722,
+        "lotcode": 7940,
+        "lotnumber": 82,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 82",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673996",
+        "lotcsuid": "7940   82",
+        "st_area(shape)": 34.844530710000001,
+        "st_length(shape)": 26.368225250134845
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821685.52799999993, 834316.59300000034],
+            [821689.13080000039, 834315.70089999959],
+            [821687.21320000011, 834306.44969999976],
+            [821683.67700000014, 834307.17400000058],
+            [821685.52799999993, 834316.59300000034]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 109568,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140312,
+        "lotcode": 7940,
+        "lotnumber": 33,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 33",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673641",
+        "lotcsuid": "7940   33",
+        "st_area(shape)": 33.024923164999997,
+        "st_length(shape)": 26.081144299825358
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821730.47970000003, 834255.91760000028],
+            [821732.2379999999, 834265.34549999982],
+            [821735.61639999971, 834264.75290000066],
+            [821733.87420000043, 834255.30140000023],
+            [821730.47970000003, 834255.91760000028]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 109937,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138672,
+        "lotcode": 7940,
+        "lotnumber": 97,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 97",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674107",
+        "lotcsuid": "7940   97",
+        "st_area(shape)": 33.499915739999999,
+        "st_length(shape)": 25.973237161894726
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821734.71410000045, 834318.15039999969],
+            [821738.19529999979, 834317.45470000058],
+            [821736.40309999976, 834308.19879999943],
+            [821732.91849999968, 834308.87729999982],
+            [821734.71410000045, 834318.15039999969]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 112773,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138924,
+        "lotcode": 7940,
+        "lotnumber": 89,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 89",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674053",
+        "lotcsuid": "7940   89",
+        "st_area(shape)": 30.133465999999999,
+        "st_length(shape)": 23.983300264851326
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821725.55300000031, 834300.35099999979],
+            [821722.04200000037, 834301.05199999921],
+            [821723.64300000016, 834309.31000000052],
+            [821727.16000000015, 834308.59899999946],
+            [821725.55300000031, 834300.35099999979]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 113393,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139779,
+        "lotcode": 7940,
+        "lotnumber": 44,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 44",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673709",
+        "lotcsuid": "7940   44",
+        "st_area(shape)": 32.426802025000001,
+        "st_length(shape)": 25.873596983847115
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821688.11799999978, 834273.26999999955],
+            [821689.70100000035, 834282.63900000043],
+            [821693.0689000003, 834282.21829999983],
+            [821691.49569999985, 834272.78339999914],
+            [821688.11799999978, 834273.26999999955]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 115705,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139402,
+        "lotcode": 7940,
+        "lotnumber": 58,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 58 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593346",
+        "lotcsuid": "7940   58    A",
+        "st_area(shape)": 33.079242415000003,
+        "st_length(shape)": 25.933516816614137
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821690.53270000033, 834293.83359999955],
+            [821688.98819999956, 834284.46059999987],
+            [821685.54270000011, 834285.02270000055],
+            [821687.07949999999, 834294.34860000014],
+            [821690.53270000033, 834293.83359999955]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 117685,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139889,
+        "lotcode": 7940,
+        "lotnumber": 36,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 36",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5921668",
+        "lotcsuid": "7940   36",
+        "st_area(shape)": 34.2681246,
+        "st_length(shape)": 26.178318584742101
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821717.81780000031, 834279.0625],
+            [821721.37980000023, 834278.42679999955],
+            [821719.69959999993, 834269.11079999991],
+            [821716.13599999994, 834269.73750000075],
+            [821717.81780000031, 834279.0625]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 121311,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139554,
+        "lotcode": 7940,
+        "lotnumber": 50,
+        "lotnumberalpha": null,
+        "sectioncode": "C",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 50 S.C",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673799",
+        "lotcsuid": "7940   50    C",
+        "st_area(shape)": 20.959629485000001,
+        "st_length(shape)": 18.773718137028666
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821653.71669999976, 834289.11490000039],
+            [821652.54669999983, 834283.47309999913],
+            [821648.97240000032, 834284.26209999993],
+            [821650.12820000015, 834289.83500000089],
+            [821653.71669999976, 834289.11490000039]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 125705,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139532,
+        "lotcode": 7940,
+        "lotnumber": 50,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 50 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673787",
+        "lotcsuid": "7940   50    B",
+        "st_area(shape)": 19.681737235,
+        "st_length(shape)": 18.273753745653028
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821650.12820000015, 834289.83500000089],
+            [821648.97240000032, 834284.26209999993],
+            [821645.59310000017, 834285.00809999928],
+            [821645.86969999969, 834286.38649999909],
+            [821646.69979999959, 834290.52300000004],
+            [821650.12820000015, 834289.83500000089]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 128464,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139189,
+        "lotcode": 7940,
+        "lotnumber": 73,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 73",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6452317",
+        "lotcsuid": "7940   73",
+        "st_area(shape)": 21.033267655,
+        "st_length(shape)": 22.291269550399448
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821711.16909999959, 834301.09410000034],
+            [821713.6529000001, 834300.72240000032],
+            [821712.17420000024, 834292.12600000016],
+            [821709.89109999966, 834292.43459999934],
+            [821710.27699999977, 834295.04959999956],
+            [821711.16909999959, 834301.09410000034]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 129832,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138549,
+        "lotcode": 7940,
+        "lotnumber": 125,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 125",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674318",
+        "lotcsuid": "7940  125",
+        "st_area(shape)": 32.029317169999999,
+        "st_length(shape)": 25.30261684132569
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821771.04420000035, 834321.52080000006],
+            [821769.47269999981, 834312.50860000029],
+            [821766.02950000018, 834313.13739999942],
+            [821767.60199999996, 834322.15540000051],
+            [821771.04420000035, 834321.52080000006]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 130163,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138422,
+        "lotcode": 7940,
+        "lotnumber": 111,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 111",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674200",
+        "lotcsuid": "7940  111",
+        "st_area(shape)": 30.547870549999999,
+        "st_length(shape)": 25.300123268618741
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821747.48300000001, 834326.64499999955],
+            [821750, 834326.14519999921],
+            [821750.67100000009, 834326.0120000001],
+            [821750, 834322.88969999924],
+            [821748.69600000046, 834316.82200000063],
+            [821745.50800000038, 834317.45500000007],
+            [821747.48300000001, 834326.64499999955]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 137013,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138952,
+        "lotcode": 7940,
+        "lotnumber": 92,
+        "lotnumberalpha": null,
+        "sectioncode": "RP",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 92 RP",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5967798",
+        "lotcsuid": "7940   92    RP",
+        "st_area(shape)": 32.789837355000003,
+        "st_length(shape)": 24.624242977395227
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821729.65730000008, 834308.12209999934],
+            [821733.4645999996, 834307.37429999933],
+            [821731.89599999972, 834299.57670000009],
+            [821731.80599999987, 834299.11999999918],
+            [821727.97190000024, 834299.87549999915],
+            [821728.08700000029, 834300.4598999992],
+            [821729.65730000008, 834308.12209999934]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 139720,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140058,
+        "lotcode": 7940,
+        "lotnumber": 18,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 18",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673538",
+        "lotcsuid": "7940   18",
+        "st_area(shape)": 35.158248579999999,
+        "st_length(shape)": 26.501789707882143
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821679.96889999975, 834263.46529999934],
+            [821676.34300000034, 834264.14049999975],
+            [821678.05910000019, 834273.55179999955],
+            [821681.65340000018, 834272.91269999929],
+            [821679.96889999975, 834263.46529999934]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 142764,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138408,
+        "lotcode": 7940,
+        "lotnumber": 110,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 110",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674198",
+        "lotcsuid": "7940  110",
+        "st_area(shape)": 33.717430999999998,
+        "st_length(shape)": 25.987369503449038
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821743.96899999958, 834327.43799999915],
+            [821747.48300000001, 834326.64499999955],
+            [821745.50800000038, 834317.45500000007],
+            [821742.02699999977, 834318.21900000051],
+            [821743.96899999958, 834327.43799999915]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 144868,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139173,
+        "lotcode": 7940,
+        "lotnumber": 131,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 131",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674349",
+        "lotcsuid": "7940  131",
+        "st_area(shape)": 21.434461120000002,
+        "st_length(shape)": 22.40498862729617
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821708.79349999968, 834301.46890000068],
+            [821711.16909999959, 834301.09410000034],
+            [821710.27699999977, 834295.04959999956],
+            [821709.89109999966, 834292.43459999934],
+            [821707.42899999954, 834292.82149999961],
+            [821708.79349999968, 834301.46890000068]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 145214,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138390,
+        "lotcode": 7940,
+        "lotnumber": 109,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 109",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983665",
+        "lotcsuid": "7940  109",
+        "st_area(shape)": 27.185611349999999,
+        "st_length(shape)": 24.81059863331755
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821743.96899999958, 834327.43799999915],
+            [821742.02699999977, 834318.21900000051],
+            [821741.99129999988, 834318.04930000007],
+            [821739.30260000005, 834318.61390000023],
+            [821741.07890000008, 834327.9757000003],
+            [821743.96899999958, 834327.43799999915]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 148971,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139268,
+        "lotcode": 7940,
+        "lotnumber": 54,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 54",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673858",
+        "lotcsuid": "7940   54",
+        "st_area(shape)": 33.41432168,
+        "st_length(shape)": 26.0635263308329
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821662.84059999976, 834298.55169999972],
+            [821666.43450000044, 834297.80859999917],
+            [821664.48029999994, 834288.50139999948],
+            [821661.1958999997, 834289.16119999997],
+            [821662.84059999976, 834298.55169999972]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 149452,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139230,
+        "lotcode": 7940,
+        "lotnumber": 90,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 90",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674066",
+        "lotcsuid": "7940   90",
+        "st_area(shape)": 23.31578352,
+        "st_length(shape)": 23.007433564524653
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821724.23300000001, 834299.22199999914],
+            [821722.60300000012, 834290.4879999999],
+            [821720.01850000024, 834290.99469999969],
+            [821721.65969999973, 834299.71110000089],
+            [821724.23300000001, 834299.22199999914]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 149524,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139283,
+        "lotcode": 7940,
+        "lotnumber": 133,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 133",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5967810",
+        "lotcsuid": "7940  133",
+        "st_area(shape)": 34.838593750000001,
+        "st_length(shape)": 25.595221712840633
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821729.32799999975, 834289.16999999993],
+            [821730.93400000036, 834297.90000000037],
+            [821734.78189999983, 834297.17760000005],
+            [821733.20330000017, 834288.4561999999],
+            [821729.32799999975, 834289.16999999993]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 150742,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139542,
+        "lotcode": 7940,
+        "lotnumber": 65,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 65",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673923",
+        "lotcsuid": "7940   65",
+        "st_area(shape)": 30.386612844999998,
+        "st_length(shape)": 25.471750626078524
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821714.59690000024, 834290.25269999914],
+            [821717.74710000027, 834289.75039999932],
+            [821716.23000000045, 834280.33070000075],
+            [821713.09509999957, 834280.8004999999],
+            [821714.59690000024, 834290.25269999914]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 151235,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139164,
+        "lotcode": 7940,
+        "lotnumber": 51,
+        "lotnumberalpha": null,
+        "sectioncode": "C",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 51 S.C",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673835",
+        "lotcsuid": "7940   51    C",
+        "st_area(shape)": 17.559256000000001,
+        "st_length(shape)": 21.966678901049136
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821643.75, 834295.09999999963],
+            [821644.70500000007, 834300.63499999978],
+            [821647.03899999987, 834301.68600000069],
+            [821645.21999999974, 834292.37900000066],
+            [821643.35199999996, 834292.72599999979],
+            [821643.75, 834295.09999999963]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 154022,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139792,
+        "lotcode": 7940,
+        "lotnumber": 43,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 43",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673697",
+        "lotcsuid": "7940   43",
+        "st_area(shape)": 35.474276475000003,
+        "st_length(shape)": 26.574859058677532
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821693.0689000003, 834282.21829999983],
+            [821696.58700000029, 834281.74560000002],
+            [821695.30769999977, 834272.22399999946],
+            [821691.49569999985, 834272.78339999914],
+            [821693.0689000003, 834282.21829999983]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 155353,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139470,
+        "lotcode": 7940,
+        "lotnumber": 61,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 61",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673916",
+        "lotcsuid": "7940   61",
+        "st_area(shape)": 32.378919005,
+        "st_length(shape)": 26.056526037643593
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821700.82890000008, 834292.44779999927],
+            [821704.14389999956, 834291.91919999942],
+            [821702.71079999954, 834282.35679999925],
+            [821699.41779999994, 834282.85029999912],
+            [821700.82890000008, 834292.44779999927]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 162674,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140110,
+        "lotcode": 7940,
+        "lotnumber": 21,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 21",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593331",
+        "lotcsuid": "7940   21",
+        "st_area(shape)": 35.365083384999998,
+        "st_length(shape)": 26.606370670856343
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821688.24770000018, 834271.72100000083],
+            [821691.87679999974, 834271.05289999954],
+            [821690.13949999958, 834261.58029999956],
+            [821686.54590000026, 834262.2405999992],
+            [821688.24770000018, 834271.72100000083]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 162728,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139379,
+        "lotcode": 7940,
+        "lotnumber": 57,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 57",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261033",
+        "lotcsuid": "7940   57",
+        "st_area(shape)": 33.62755722,
+        "st_length(shape)": 26.001065672869522
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821681.11180000007, 834294.90359999985],
+            [821684.47989999969, 834294.27769999951],
+            [821682.98010000028, 834285.44070000015],
+            [821682.88599999994, 834284.97279999964],
+            [821679.26539999992, 834285.63089999929],
+            [821681.11180000007, 834294.90359999985]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 163626,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138750,
+        "lotcode": 7940,
+        "lotnumber": 137,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 137",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5921671",
+        "lotcsuid": "7940  137",
+        "st_area(shape)": 35.298565304999997,
+        "st_length(shape)": 26.402935033169541
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821692.30159999989, 834315.07049999945],
+            [821696.02369999979, 834314.3303999994],
+            [821694.07340000011, 834305.04619999975],
+            [821690.49260000046, 834305.77879999951],
+            [821692.30159999989, 834315.07049999945]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 164079,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138920,
+        "lotcode": 7940,
+        "lotnumber": 78,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 78",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673986",
+        "lotcsuid": "7940   78",
+        "st_area(shape)": 33.339013000000001,
+        "st_length(shape)": 26.065819359024932
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821668.68499999959, 834308.61999999918],
+            [821666.80099999998, 834299.27099999972],
+            [821663.38599999994, 834299.94999999925],
+            [821665.24299999978, 834309.3049999997],
+            [821668.68499999959, 834308.61999999918]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 167449,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138523,
+        "lotcode": 7940,
+        "lotnumber": 102,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 102",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674137",
+        "lotcsuid": "7940  102",
+        "st_area(shape)": 36.729000999999997,
+        "st_length(shape)": 26.569896401769149
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821713.94900000002, 834322.22900000028],
+            [821712.14699999988, 834313.03700000048],
+            [821708.2790000001, 834313.81200000085],
+            [821710.12100000028, 834322.9849999994],
+            [821713.94900000002, 834322.22900000028]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 168952,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140541,
+        "lotcode": 7940,
+        "lotnumber": 9,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 9",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6717890",
+        "lotcsuid": "7940    9",
+        "st_area(shape)": 33.442241785,
+        "st_length(shape)": 26.086100269085588
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821709.55989999976, 834256.29700000025],
+            [821707.72159999982, 834246.94470000081],
+            [821706.94099999964, 834247.05800000019],
+            [821704.27500000037, 834247.55719999969],
+            [821704.27929999959, 834247.57909999974],
+            [821706.11760000046, 834256.93129999936],
+            [821709.55989999976, 834256.29700000025]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 172073,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138772,
+        "lotcode": 7940,
+        "lotnumber": 84,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 84",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674018",
+        "lotcsuid": "7940   84",
+        "st_area(shape)": 30.199850274999999,
+        "st_length(shape)": 25.064087470208786
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821696.02369999979, 834314.3303999994],
+            [821699.01840000041, 834313.68850000016],
+            [821697.54719999991, 834304.77869999968],
+            [821694.07340000011, 834305.04619999975],
+            [821696.02369999979, 834314.3303999994]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 174289,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139165,
+        "lotcode": 7940,
+        "lotnumber": 51,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 51 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673825",
+        "lotcsuid": "7940   51    B",
+        "st_area(shape)": 63.327956,
+        "st_length(shape)": 32.344906760030028
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821647.03899999987, 834301.68600000069],
+            [821653.53199999966, 834300.42899999954],
+            [821651.77500000037, 834291.03500000015],
+            [821645.21999999974, 834292.37900000066],
+            [821647.03899999987, 834301.68600000069]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 177536,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138690,
+        "lotcode": 7940,
+        "lotnumber": 127,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 127",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6407701",
+        "lotcsuid": "7940  127",
+        "st_area(shape)": 30.80310836,
+        "st_length(shape)": 25.391684162260582
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821738.19529999979, 834317.45470000058],
+            [821741.44570000004, 834316.80519999936],
+            [821739.59680000041, 834307.71900000051],
+            [821739.58050000016, 834307.58019999973],
+            [821736.40309999976, 834308.19879999943],
+            [821738.19529999979, 834317.45470000058]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 180622,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138276,
+        "lotcode": 7940,
+        "lotnumber": 104,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 104",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674157",
+        "lotcsuid": "7940  104",
+        "st_area(shape)": 92.980244999999996,
+        "st_length(shape)": 42.547034844240343
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821693.10599999968, 834328.7929999996],
+            [821691.90099999961, 834322.76400000043],
+            [821677.07100000046, 834325.49300000072],
+            [821678.18300000019, 834331.53800000064],
+            [821693.10599999968, 834328.7929999996]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 184390,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139767,
+        "lotcode": 7940,
+        "lotnumber": 45,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 45",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983614",
+        "lotcsuid": "7940   45",
+        "st_area(shape)": 29.090472999999999,
+        "st_length(shape)": 25.129857724445866
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821689.70100000035, 834282.63900000043],
+            [821688.11799999978, 834273.26999999955],
+            [821685.08999999985, 834273.72399999946],
+            [821686.67399999965, 834283.09600000083],
+            [821689.70100000035, 834282.63900000043]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 184421,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138594,
+        "lotcode": 7940,
+        "lotnumber": 99,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 99",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5967808",
+        "lotcsuid": "7940   99",
+        "st_area(shape)": 32.745380375000003,
+        "st_length(shape)": 25.674706265765909
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821720.36780000012, 834320.95600000024],
+            [821723.80229999963, 834320.28199999966],
+            [821722.00069999974, 834311.1353999991],
+            [821718.54289999977, 834311.8060999997],
+            [821720.36780000012, 834320.95600000024]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 184855,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139125,
+        "lotcode": 7940,
+        "lotnumber": 75,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 75",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5311663",
+        "lotcsuid": "7940   75",
+        "st_area(shape)": 31.528568539999998,
+        "st_length(shape)": 24.716165180964452
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821701.69130000006, 834302.5895000007],
+            [821705.24739999976, 834302.02850000001],
+            [821703.84329999983, 834293.38480000012],
+            [821700.37870000023, 834293.9291999992],
+            [821700.38019999955, 834293.93850000016],
+            [821700.28839999996, 834293.95309999958],
+            [821701.69130000006, 834302.5895000007]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 185832,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139914,
+        "lotcode": 7940,
+        "lotnumber": 35,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 35",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673661",
+        "lotcsuid": "7940   35",
+        "st_area(shape)": 34.882153844999998,
+        "st_length(shape)": 26.298175395524119
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821721.37980000023, 834278.42679999955],
+            [821725.07660000026, 834277.76710000075],
+            [821723.2631000001, 834268.48409999907],
+            [821719.69959999993, 834269.11079999991],
+            [821721.37980000023, 834278.42679999955]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 187579,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140170,
+        "lotcode": 7940,
+        "lotnumber": 24,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 24",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673560",
+        "lotcsuid": "7940   24",
+        "st_area(shape)": 34.510849290000003,
+        "st_length(shape)": 26.451901151674306
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821697.87999999989, 834269.94999999925],
+            [821701.39680000022, 834269.30030000024],
+            [821699.65060000028, 834259.78600000031],
+            [821696.14199999999, 834260.48299999908],
+            [821697.87999999989, 834269.94999999925]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 191325,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800140207,
+        "lotcode": 7940,
+        "lotnumber": 25,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 25",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673576",
+        "lotcsuid": "7940   25",
+        "st_area(shape)": 34.850067224999997,
+        "st_length(shape)": 26.527696638396929
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821704.43740000017, 834268.72430000082],
+            [821707.95480000041, 834268.05810000002],
+            [821706.21879999992, 834258.56880000047],
+            [821702.63970000017, 834259.2321000006],
+            [821704.43740000017, 834268.72430000082]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 192598,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138256,
+        "lotcode": 7940,
+        "lotnumber": 106,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 106",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674177",
+        "lotcsuid": "7940  106",
+        "st_area(shape)": 67.956005614999995,
+        "st_length(shape)": 33.307098204987454
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821717.07670000009, 834323.0560999997],
+            [821718.89780000038, 834332.3758000005],
+            [821725.91480000038, 834331.00349999964],
+            [821724.09659999982, 834321.67270000093],
+            [821717.07670000009, 834323.0560999997]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 194209,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138944,
+        "lotcode": 7940,
+        "lotnumber": 77,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 77",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673979",
+        "lotcsuid": "7940   77",
+        "st_area(shape)": 30.879486,
+        "st_length(shape)": 25.549646213342402
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821671.85900000017, 834307.98000000045],
+            [821669.97499999963, 834298.63099999912],
+            [821666.80099999998, 834299.27099999972],
+            [821668.68499999959, 834308.61999999918],
+            [821671.85900000017, 834307.98000000045]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 194788,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140398,
+        "lotcode": 7940,
+        "lotnumber": 17,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 17",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5827001",
+        "lotcsuid": "7940   17",
+        "st_area(shape)": 34.331763670000001,
+        "st_length(shape)": 26.229998937757603
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821678.28199999966, 834252.40960000083],
+            [821674.68479999993, 834253.06469999999],
+            [821676.38800000027, 834262.41100000031],
+            [821679.90089999977, 834261.77390000038],
+            [821678.28199999966, 834252.40960000083]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 199746,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139225,
+        "lotcode": 7940,
+        "lotnumber": 52,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 52",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673844",
+        "lotcsuid": "7940   52",
+        "st_area(shape)": 35.624061744999999,
+        "st_length(shape)": 26.568941072105979
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821656.46289999969, 834299.87050000019],
+            [821659.65170000028, 834299.21110000089],
+            [821660.10989999957, 834299.11639999971],
+            [821658.22559999954, 834289.75789999962],
+            [821657.88179999962, 834289.82689999975],
+            [821654.56759999972, 834290.49269999936],
+            [821656.46289999969, 834299.87050000019]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 202622,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800137643,
+        "lotcode": 7940,
+        "lotnumber": 122,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 122",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674290",
+        "lotcsuid": "7940  122",
+        "st_area(shape)": 36.405861575000003,
+        "st_length(shape)": 26.779417841440708
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821728.95999999996, 834353.28920000046],
+            [821732.69209999964, 834352.60620000027],
+            [821731.02610000037, 834343.15240000002],
+            [821727.29530000035, 834343.84310000017],
+            [821728.95999999996, 834353.28920000046]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 204454,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139626,
+        "lotcode": 7940,
+        "lotnumber": 49,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 49",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673750",
+        "lotcsuid": "7940   49",
+        "st_area(shape)": 23.929258624999999,
+        "st_length(shape)": 20.938998240545665
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821663.89379999973, 834287.07249999978],
+            [821662.49380000029, 834280.11270000041],
+            [821659.17810000014, 834280.77969999984],
+            [821660.59949999955, 834287.73359999992],
+            [821661.86000000034, 834287.48069999926],
+            [821663.89379999973, 834287.07249999978]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 204871,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140522,
+        "lotcode": 7940,
+        "lotnumber": 10,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 10",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5227347",
+        "lotcsuid": "7940   10",
+        "st_area(shape)": 32.210300449999998,
+        "st_length(shape)": 25.834131887252909
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821706.11760000046, 834256.93129999936],
+            [821704.27929999959, 834247.57909999974],
+            [821704.27500000037, 834247.55719999969],
+            [821703.13300000038, 834247.77099999972],
+            [821700.9748999998, 834248.18810000084],
+            [821702.78380000032, 834257.5457000006],
+            [821706.11760000046, 834256.93129999936]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 206373,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140079,
+        "lotcode": 7940,
+        "lotnumber": 19,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 19",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983593",
+        "lotcsuid": "7940   19",
+        "st_area(shape)": 34.743683314999998,
+        "st_length(shape)": 26.452232781306282
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821681.65340000018, 834272.91269999929],
+            [821685.20760000031, 834272.2807],
+            [821683.52780000027, 834262.80260000005],
+            [821679.96889999975, 834263.46529999934],
+            [821681.65340000018, 834272.91269999929]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 208158,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140818,
+        "lotcode": 7940,
+        "lotnumber": 6,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 6",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673487",
+        "lotcsuid": "7940    6",
+        "st_area(shape)": 31.486356069999999,
+        "st_length(shape)": 25.734771948814245
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821696.67509999964, 834247.24139999971],
+            [821694.68979999982, 834237.8674999997],
+            [821691.69199999981, 834238.43520000018],
+            [821691.5672000004, 834238.45869999938],
+            [821693.33849999961, 834247.87260000035],
+            [821696.67509999964, 834247.24139999971]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 209283,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139105,
+        "lotcode": 7940,
+        "lotnumber": 130,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 130",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5227357",
+        "lotcsuid": "7940  130",
+        "st_area(shape)": 29.56574878,
+        "st_length(shape)": 24.251394256946313
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821698.44189999998, 834302.98069999926],
+            [821698.47130000032, 834303.09759999998],
+            [821701.69130000006, 834302.5895000007],
+            [821700.28839999996, 834293.95309999958],
+            [821696.83860000037, 834294.50290000066],
+            [821698.44189999998, 834302.98069999926]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 211424,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140191,
+        "lotcode": 7940,
+        "lotnumber": 138,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 138",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593376",
+        "lotcsuid": "7940  138",
+        "st_area(shape)": 29.651936415000002,
+        "st_length(shape)": 25.468811771667482
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821701.39680000022, 834269.30030000024],
+            [821704.43740000017, 834268.72430000082],
+            [821702.63970000017, 834259.2321000006],
+            [821699.65060000028, 834259.78600000031],
+            [821701.39680000022, 834269.30030000024]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 211591,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138809,
+        "lotcode": 7940,
+        "lotnumber": 129,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 129",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674338",
+        "lotcsuid": "7940  129",
+        "st_area(shape)": 35.419985414999999,
+        "st_length(shape)": 25.849318540336665
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821706.78120000008, 834312.19800000079],
+            [821705.37909999955, 834303.4199000001],
+            [821701.48230000027, 834304.09600000083],
+            [821702.92850000039, 834312.98029999994],
+            [821706.78569999989, 834312.28160000034],
+            [821706.78120000008, 834312.19800000079]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 214543,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138487,
+        "lotcode": 7940,
+        "lotnumber": 114,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 114",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674236",
+        "lotcsuid": "7940  114",
+        "st_area(shape)": 24.453427829999999,
+        "st_length(shape)": 24.133405118040713
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821758.57180000003, 834324.36500000022],
+            [821761.08789999969, 834323.77920000069],
+            [821759.00420000032, 834314.53060000017],
+            [821756.49170000013, 834315.10300000012],
+            [821757.07039999962, 834317.67159999907],
+            [821757.09460000042, 834317.77889999934],
+            [821758.03479999956, 834321.95199999958],
+            [821758.57180000003, 834324.36500000022]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 217118,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140767,
+        "lotcode": 7940,
+        "lotnumber": 3,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 3",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5593315",
+        "lotcsuid": "7940    3",
+        "st_area(shape)": 38.363099335000001,
+        "st_length(shape)": 27.173825973611319
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821687.24120000005, 834249.02380000055],
+            [821685.46920000017, 834239.60600000061],
+            [821681.58370000031, 834240.33709999919],
+            [821683.25910000037, 834249.77439999953],
+            [821687.24120000005, 834249.02380000055]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 223479,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140146,
+        "lotcode": 7940,
+        "lotnumber": 23,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 23",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261016",
+        "lotcsuid": "7940   23",
+        "st_area(shape)": 30.460381999999999,
+        "st_length(shape)": 25.57346310045299
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821694.76999999955, 834270.50300000049],
+            [821697.87999999989, 834269.94999999925],
+            [821696.14199999999, 834260.48299999908],
+            [821693.01900000032, 834261.04800000042],
+            [821694.76999999955, 834270.50300000049]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 225290,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138872,
+        "lotcode": 7940,
+        "lotnumber": 88,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 88",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674041",
+        "lotcsuid": "7940   88",
+        "st_area(shape)": 22.955801699999999,
+        "st_length(shape)": 23.034359035439287
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821715.4570000004, 834310.86099999957],
+            [821713.9450000003, 834302.05599999987],
+            [821711.43819999974, 834302.38199999928],
+            [821712.8805999998, 834311.23450000025],
+            [821715.4570000004, 834310.86099999957]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 226217,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140736,
+        "lotcode": 7940,
+        "lotnumber": 1,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 1 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6496568",
+        "lotcsuid": "7940    1    A",
+        "st_area(shape)": 27.660100504999999,
+        "st_length(shape)": 24.933819730312123
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821677.5800999999, 834250.82259999961],
+            [821680.41970000044, 834250.29849999957],
+            [821678.75980000012, 834240.86219999939],
+            [821675.92080000043, 834241.3900000006],
+            [821677.5800999999, 834250.82259999961]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 228379,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800140254,
+        "lotcode": 7940,
+        "lotnumber": 30,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 30",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673617",
+        "lotcsuid": "7940   30",
+        "st_area(shape)": 32.217906499999998,
+        "st_length(shape)": 25.941979765249549
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821720.71800000034, 834257.67100000009],
+            [821722.43499999959, 834267.1129999999],
+            [821725.7620000001, 834266.54199999943],
+            [821723.98199999984, 834257.05900000036],
+            [821720.71800000034, 834257.67100000009]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 230456,
+        "lastupdatedate": 1693699200000,
+        "lotid": 1800140128,
+        "lotcode": 7940,
+        "lotnumber": 22,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 22",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673553",
+        "lotcsuid": "7940   22",
+        "st_area(shape)": 28.259598695000001,
+        "st_length(shape)": 25.119646667099932
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821691.87679999974, 834271.05289999954],
+            [821694.76999999955, 834270.50300000049],
+            [821693.01900000032, 834261.04800000042],
+            [821690.13949999958, 834261.58029999956],
+            [821691.87679999974, 834271.05289999954]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 233251,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138967,
+        "lotcode": 7940,
+        "lotnumber": 76,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 76 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673966",
+        "lotcsuid": "7940   76    A",
+        "st_area(shape)": 62.754850365000003,
+        "st_length(shape)": 32.157307699973913
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821673.48450000025, 834307.63670000061],
+            [821680.01549999975, 834306.30729999952],
+            [821678.19959999993, 834297.09459999949],
+            [821671.65149999969, 834298.38900000043],
+            [821673.48450000025, 834307.63670000061]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 236098,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139009,
+        "lotcode": 7940,
+        "lotnumber": 76,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 76 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5967783",
+        "lotcsuid": "7940   76    B",
+        "st_area(shape)": 31.26026396,
+        "st_length(shape)": 25.426086482275089
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821680.01549999975, 834306.30729999952],
+            [821683.28110000025, 834305.6425999999],
+            [821683.13379999995, 834304.89550000057],
+            [821681.67379999999, 834297.48839999922],
+            [821681.46879999992, 834296.44840000011],
+            [821678.19959999993, 834297.09459999949],
+            [821680.01549999975, 834306.30729999952]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 237866,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139947,
+        "lotcode": 7940,
+        "lotnumber": 135,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 135",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674365",
+        "lotcsuid": "7940  135",
+        "st_area(shape)": 30.557496055000001,
+        "st_length(shape)": 25.375251121093491
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821731.04700000025, 834276.71700000018],
+            [821729.26800000016, 834267.42600000091],
+            [821726.07490000036, 834267.9896000009],
+            [821727.87249999959, 834277.26810000092],
+            [821731.04700000025, 834276.71700000018]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 238991,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138229,
+        "lotcode": 7940,
+        "lotnumber": 105,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 105",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674160",
+        "lotcsuid": "7940  105",
+        "st_area(shape)": 35.457972769999998,
+        "st_length(shape)": 26.45672599290058
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821718.89780000038, 834332.3758000005],
+            [821717.07670000009, 834323.0560999997],
+            [821713.39740000013, 834323.78109999932],
+            [821715.24689999968, 834333.08980000019],
+            [821718.89780000038, 834332.3758000005]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 239088,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139524,
+        "lotcode": 7940,
+        "lotnumber": 64,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 64",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983623",
+        "lotcsuid": "7940   64",
+        "st_area(shape)": 32.353226325000001,
+        "st_length(shape)": 25.922993516630115
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821711.27139999997, 834290.78289999999],
+            [821714.59690000024, 834290.25269999914],
+            [821713.09509999957, 834280.8004999999],
+            [821709.75009999983, 834281.30179999955],
+            [821711.27139999997, 834290.78289999999]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 243382,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139652,
+        "lotcode": 7940,
+        "lotnumber": 48,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 48",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673748",
+        "lotcsuid": "7940   48",
+        "st_area(shape)": 34.679484199999997,
+        "st_length(shape)": 26.046196783007961
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821662.06219999958, 834277.96660000086],
+            [821662.49380000029, 834280.11270000041],
+            [821663.89379999973, 834287.07249999978],
+            [821667.55080000032, 834286.33860000037],
+            [821665.72420000006, 834277.22770000063],
+            [821662.06219999958, 834277.96660000086]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 250568,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139246,
+        "lotcode": 7940,
+        "lotnumber": 72,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 72",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673956",
+        "lotcsuid": "7940   72",
+        "st_area(shape)": 31.901733499999999,
+        "st_length(shape)": 24.94629928864558
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821727.75499999989, 834298.51700000092],
+            [821726.12799999956, 834289.79099999927],
+            [821722.60300000012, 834290.4879999999],
+            [821724.23300000001, 834299.22199999914],
+            [821727.75499999989, 834298.51700000092]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 251111,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138496,
+        "lotcode": 7940,
+        "lotnumber": 115,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 115",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674245",
+        "lotcsuid": "7940  115",
+        "st_area(shape)": 24.855768260000001,
+        "st_length(shape)": 24.130214656642927
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821761.08789999969, 834323.77920000069],
+            [821763.59119999968, 834323.19639999978],
+            [821762.52830000035, 834318.09600000083],
+            [821761.60690000001, 834313.98780000024],
+            [821760.55250000022, 834314.22829999961],
+            [821759.42920000013, 834314.43370000087],
+            [821759.00420000032, 834314.53060000017],
+            [821761.08789999969, 834323.77920000069]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 252855,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138546,
+        "lotcode": 7940,
+        "lotnumber": 101,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 101",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674123",
+        "lotcsuid": "7940  101",
+        "st_area(shape)": 28.3535295,
+        "st_length(shape)": 24.780594375469565
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821716.94400000013, 834321.63800000027],
+            [821715.09700000007, 834312.46600000001],
+            [821712.14699999988, 834313.03700000048],
+            [821713.94900000002, 834322.22900000028],
+            [821716.94400000013, 834321.63800000027]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 254536,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800137774,
+        "lotcode": 7940,
+        "lotnumber": 118,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 118",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674268",
+        "lotcsuid": "7940  118",
+        "st_area(shape)": 44.448437499999997,
+        "st_length(shape)": 26.699530575276096
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821746.52799999993, 834347.34600000083],
+            [821745.25100000016, 834340.46399999969],
+            [821739.00800000038, 834341.62099999934],
+            [821740.28399999999, 834348.50400000066],
+            [821746.52799999993, 834347.34600000083]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 260871,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139872,
+        "lotcode": 7940,
+        "lotnumber": 37,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 37",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6634099",
+        "lotcsuid": "7940   37",
+        "st_area(shape)": 32.944125149999998,
+        "st_length(shape)": 26.210893412155229
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821711.07899999991, 834270.03399999999],
+            [821712.82899999991, 834279.56599999964],
+            [821716.20289999992, 834279.03779999912],
+            [821714.40240000002, 834269.47179999948],
+            [821711.07899999991, 834270.03399999999]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 265383,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139866,
+        "lotcode": 7940,
+        "lotnumber": 38,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 38",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673671",
+        "lotcsuid": "7940   38",
+        "st_area(shape)": 27.752479999999998,
+        "st_length(shape)": 25.086726554989859
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821712.82899999991, 834279.56599999964],
+            [821711.07899999991, 834270.03399999999],
+            [821708.32400000002, 834270.40899999999],
+            [821708.30200000014, 834270.41200000048],
+            [821709.90799999982, 834279.92699999921],
+            [821712.82899999991, 834279.56599999964]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 271179,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140494,
+        "lotcode": 7940,
+        "lotnumber": 11,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 11",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673514",
+        "lotcsuid": "7940   11",
+        "st_area(shape)": 62.142500884999997,
+        "st_length(shape)": 32.102139042473027
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821696.35699999984, 834258.73000000045],
+            [821702.78380000032, 834257.5457000006],
+            [821700.9748999998, 834248.18810000084],
+            [821700.71920000017, 834248.23520000093],
+            [821694.83739999961, 834249.31919999979],
+            [821694.57679999992, 834249.36730000004],
+            [821696.35699999984, 834258.73000000045]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 272501,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139453,
+        "lotcode": 7940,
+        "lotnumber": 60,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 60",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6496572",
+        "lotcsuid": "7940   60",
+        "st_area(shape)": 32.530810574999997,
+        "st_length(shape)": 26.093745315923844
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821700.82890000008, 834292.44779999927],
+            [821699.41779999994, 834282.85029999912],
+            [821696.14439999964, 834283.34080000035],
+            [821697.45820000023, 834292.92940000072],
+            [821700.82890000008, 834292.44779999927]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 276622,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139931,
+        "lotcode": 7940,
+        "lotnumber": 34,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 34",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673656",
+        "lotcsuid": "7940   34",
+        "st_area(shape)": 26.918737849999999,
+        "st_length(shape)": 24.604541674740997
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821725.07660000026, 834277.76710000075],
+            [821727.87249999959, 834277.26810000092],
+            [821726.07490000036, 834267.9896000009],
+            [821723.2631000001, 834268.48409999907],
+            [821725.07660000026, 834277.76710000075]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 277444,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138879,
+        "lotcode": 7940,
+        "lotnumber": 126,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 126",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261084",
+        "lotcsuid": "7940  126",
+        "st_area(shape)": 26.398471000000001,
+        "st_length(shape)": 23.789744050001332
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821718.37799999956, 834310.36099999957],
+            [821716.83999999985, 834301.54199999943],
+            [821713.9450000003, 834302.05599999987],
+            [821715.4570000004, 834310.86099999957],
+            [821718.37799999956, 834310.36099999957]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 277478,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139627,
+        "lotcode": 7940,
+        "lotnumber": 68,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 68",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673942",
+        "lotcsuid": "7940   68",
+        "st_area(shape)": 28.615203935,
+        "st_length(shape)": 24.81871221431399
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821732.51939999964, 834287.00469999947],
+            [821732.21659999993, 834285.2536999993],
+            [821730.94730000012, 834277.91269999929],
+            [821727.86139999982, 834278.43600000069],
+            [821729.23180000018, 834285.74909999967],
+            [821729.58079999965, 834287.71629999951],
+            [821732.51939999964, 834287.00469999947]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 279366,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140788,
+        "lotcode": 7940,
+        "lotnumber": 4,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 4",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673460",
+        "lotcsuid": "7940    4",
+        "st_area(shape)": 31.957547959999999,
+        "st_length(shape)": 25.834912053830944
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821690.51850000024, 834248.40599999949],
+            [821688.74670000002, 834238.98939999938],
+            [821685.46920000017, 834239.60600000061],
+            [821687.24120000005, 834249.02380000055],
+            [821690.51850000024, 834248.40599999949]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 281868,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139248,
+        "lotcode": 7940,
+        "lotnumber": 53,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 53",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5311628",
+        "lotcsuid": "7940   53",
+        "st_area(shape)": 27.7466574,
+        "st_length(shape)": 24.897876720004241
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821660.10989999957, 834299.11639999971],
+            [821662.84059999976, 834298.55169999972],
+            [821661.1958999997, 834289.16119999997],
+            [821658.22559999954, 834289.75789999962],
+            [821660.10989999957, 834299.11639999971]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 285544,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140446,
+        "lotcode": 7940,
+        "lotnumber": 14,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 14",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673521",
+        "lotcsuid": "7940   14",
+        "st_area(shape)": 30.587731810000001,
+        "st_length(shape)": 25.439229890968189
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821686.85639999993, 834260.49760000035],
+            [821689.99619999994, 834259.91349999979],
+            [821688.30900000036, 834250.55839999951],
+            [821685.11990000028, 834251.16440000013],
+            [821686.85639999993, 834260.49760000035]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 287700,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800139606,
+        "lotcode": 7940,
+        "lotnumber": 134,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 134",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983694",
+        "lotcsuid": "7940  134",
+        "st_area(shape)": 32.249548730000001,
+        "st_length(shape)": 25.712772638036665
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821729.58079999965, 834287.71629999951],
+            [821729.23180000018, 834285.74909999967],
+            [821727.86139999982, 834278.43600000069],
+            [821724.52869999968, 834279.00109999999],
+            [821726.20490000024, 834288.31680000015],
+            [821729.58079999965, 834287.71629999951]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 301029,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138376,
+        "lotcode": 7940,
+        "lotnumber": 108,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 108",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674186",
+        "lotcsuid": "7940  108",
+        "st_area(shape)": 28.55912944,
+        "st_length(shape)": 25.038099022225488
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821741.07890000008, 834327.9757000003],
+            [821739.30260000005, 834318.61390000023],
+            [821736.36610000022, 834319.2304999996],
+            [821738.1202999996, 834328.47619999945],
+            [821738.14109999966, 834328.57399999909],
+            [821741.07890000008, 834327.9757000003]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 303109,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139100,
+        "lotcode": 7940,
+        "lotnumber": 95,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 95",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5884950",
+        "lotcsuid": "7940   95",
+        "st_area(shape)": 70.973976594999996,
+        "st_length(shape)": 34.848854657146823
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821750.95440000016, 834303.22000000067],
+            [821756.98500000034, 834302.48249999993],
+            [821756.53000000026, 834298.14460000023],
+            [821756.48309999984, 834297.6668999996],
+            [821756.3228000002, 834296.03380000032],
+            [821755.88279999979, 834291.55269999988],
+            [821752.53399999999, 834291.93549999967],
+            [821750, 834292.22519999929],
+            [821749.18539999984, 834292.31829999946],
+            [821749.41440000013, 834294.32090000063],
+            [821749.67090000026, 834295.8030999992],
+            [821750, 834297.70480000041],
+            [821750.95440000016, 834303.22000000067]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 308171,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138711,
+        "lotcode": 7940,
+        "lotnumber": 96,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 96",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674099",
+        "lotcsuid": "7940   96",
+        "st_area(shape)": 55.208663940000001,
+        "st_length(shape)": 30.460849998555112
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821741.44570000004, 834316.80519999936],
+            [821747.26570000034, 834315.64210000075],
+            [821745.43599999975, 834306.52969999984],
+            [821739.59680000041, 834307.71900000051],
+            [821741.44570000004, 834316.80519999936]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 308184,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139277,
+        "lotcode": 7940,
+        "lotnumber": 71,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 71",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C5311658",
+        "lotcsuid": "7940   71",
+        "st_area(shape)": 28.838569499999998,
+        "st_length(shape)": 24.250899754946698
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821726.12799999956, 834289.79099999927],
+            [821727.75499999989, 834298.51700000092],
+            [821730.93400000036, 834297.90000000037],
+            [821729.32799999975, 834289.16999999993],
+            [821726.12799999956, 834289.79099999927]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 309653,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140271,
+        "lotcode": 7940,
+        "lotnumber": 31,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 31",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673625",
+        "lotcsuid": "7940   31",
+        "st_area(shape)": 30.282588440000001,
+        "st_length(shape)": 25.522127519138124
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821728.85960000008, 834265.93799999915],
+            [821727.08519999962, 834256.53370000049],
+            [821723.98199999984, 834257.05900000036],
+            [821725.7620000001, 834266.54199999943],
+            [821728.85960000008, 834265.93799999915]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 309654,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138977,
+        "lotcode": 7940,
+        "lotnumber": 92,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 92 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674077",
+        "lotcsuid": "7940   92    A",
+        "st_area(shape)": 22.212550159999999,
+        "st_length(shape)": 22.113470761451389
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821733.4645999996, 834307.37429999933],
+            [821736.02560000028, 834306.8713000007],
+            [821734.49210000038, 834298.97470000014],
+            [821734.41930000018, 834298.60520000011],
+            [821731.80599999987, 834299.11999999918],
+            [821731.89599999972, 834299.57670000009],
+            [821733.4645999996, 834307.37429999933]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 310749,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139708,
+        "lotcode": 7940,
+        "lotnumber": 140,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 140",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6452324",
+        "lotcsuid": "7940  140",
+        "st_area(shape)": 13.831727215000001,
+        "st_length(shape)": 14.925929069433433
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821645.59310000017, 834285.00809999928],
+            [821648.97240000032, 834284.26209999993],
+            [821648.16009999998, 834280.3451000005],
+            [821644.77699999977, 834281.09190000035],
+            [821645.34240000043, 834283.75899999961],
+            [821645.59310000017, 834285.00809999928]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 318644,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139506,
+        "lotcode": 7940,
+        "lotnumber": 50,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 50 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673776",
+        "lotcsuid": "7940   50    A",
+        "st_area(shape)": 23.921289614999999,
+        "st_length(shape)": 20.740675351912323
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821646.69979999959, 834290.52300000004],
+            [821645.86969999969, 834286.38649999909],
+            [821645.59310000017, 834285.00809999928],
+            [821645.34240000043, 834283.75899999961],
+            [821641.93570000026, 834284.42620000057],
+            [821643.31199999992, 834291.20289999992],
+            [821646.69979999959, 834290.52300000004]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 320463,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139199,
+        "lotcode": 7940,
+        "lotnumber": 132,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 132",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674359",
+        "lotcsuid": "7940  132",
+        "st_area(shape)": 30.587021615000001,
+        "st_length(shape)": 24.470236430235037
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821717.13389999978, 834300.14079999924],
+            [821715.5998999998, 834291.53449999914],
+            [821712.17420000024, 834292.12600000016],
+            [821713.6529000001, 834300.72240000032],
+            [821717.13389999978, 834300.14079999924]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 321232,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140095,
+        "lotcode": 7940,
+        "lotnumber": 20,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 20",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673544",
+        "lotcsuid": "7940   20",
+        "st_area(shape)": 29.661881354999998,
+        "st_length(shape)": 25.418907670337685
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821685.20760000031, 834272.2807],
+            [821688.24770000018, 834271.72100000083],
+            [821686.54590000026, 834262.2405999992],
+            [821683.52780000027, 834262.80260000005],
+            [821685.20760000031, 834272.2807]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 324500,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139332,
+        "lotcode": 7940,
+        "lotnumber": 56,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 56 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6051526",
+        "lotcsuid": "7940   56    B",
+        "st_area(shape)": 34.983522809999997,
+        "st_length(shape)": 26.421106148175859
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821674.42750000022, 834296.23120000027],
+            [821678.01659999974, 834295.54020000063],
+            [821676.23500000034, 834286.18180000037],
+            [821672.61930000037, 834286.83899999969],
+            [821674.42750000022, 834296.23120000027]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 328091,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139569,
+        "lotcode": 7940,
+        "lotnumber": 66,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 66",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673930",
+        "lotcsuid": "7940   66",
+        "st_area(shape)": 31.35635499,
+        "st_length(shape)": 25.440199760324923
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821721.37480000034, 834279.67400000058],
+            [821718.0932, 834280.26290000044],
+            [821719.72900000028, 834289.49599999934],
+            [821723.0307, 834288.90100000054],
+            [821721.37480000034, 834279.67400000058]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 329845,
+        "lastupdatedate": 1701734400000,
+        "lotid": 1800358606,
+        "lotcode": 7940,
+        "lotnumber": 40,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 40",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261021",
+        "lotcsuid": "7940   40",
+        "st_area(shape)": 28.392082500000001,
+        "st_length(shape)": 25.234804206489645
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821703.31500000041, 834280.82300000079],
+            [821706.2070000004, 834280.44600000046],
+            [821704.62200000044, 834270.87099999934],
+            [821701.70299999975, 834271.29499999993],
+            [821703.31500000041, 834280.82300000079]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 331657,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139423,
+        "lotcode": 7940,
+        "lotnumber": 58,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 58 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673893",
+        "lotcsuid": "7940   58    B",
+        "st_area(shape)": 33.239808590000003,
+        "st_length(shape)": 26.028879250577894
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821693.85720000044, 834293.33779999986],
+            [821692.56089999992, 834283.87790000066],
+            [821692.55009999964, 834283.87949999981],
+            [821688.98819999956, 834284.46059999987],
+            [821690.53270000033, 834293.83359999955],
+            [821693.85720000044, 834293.33779999986]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 332179,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139342,
+        "lotcode": 7940,
+        "lotnumber": 94,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 94",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674087",
+        "lotcsuid": "7940   94",
+        "st_area(shape)": 41.874587409999997,
+        "st_length(shape)": 26.768563647957496
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821741.36629999988, 834295.89200000092],
+            [821749.41440000013, 834294.32090000063],
+            [821749.18539999984, 834292.31829999946],
+            [821748.84740000032, 834289.36260000058],
+            [821740.43790000025, 834290.9606999997],
+            [821741.36629999988, 834295.89200000092]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 333031,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138502,
+        "lotcode": 7940,
+        "lotnumber": 103,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 103",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674145",
+        "lotcsuid": "7940  103",
+        "st_area(shape)": 33.855864105000002,
+        "st_length(shape)": 25.924978969238769
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821710.12100000028, 834322.9849999994],
+            [821708.2790000001, 834313.81200000085],
+            [821704.75200000033, 834314.52690000087],
+            [821706.53189999983, 834323.67129999958],
+            [821710.12100000028, 834322.9849999994]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 333559,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140572,
+        "lotcode": 7940,
+        "lotnumber": 8,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 8",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673508",
+        "lotcsuid": "7940    8",
+        "st_area(shape)": 25.206215765,
+        "st_length(shape)": 24.352266440438207
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821709.55989999976, 834256.29700000025],
+            [821712.16579999961, 834255.81680000015],
+            [821710.31759999972, 834246.46619999968],
+            [821707.72159999982, 834246.94470000081],
+            [821709.55989999976, 834256.29700000025]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 336766,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138654,
+        "lotcode": 7940,
+        "lotnumber": 98,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 98",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983652",
+        "lotcsuid": "7940   98",
+        "st_area(shape)": 39.145368650000002,
+        "st_length(shape)": 27.192266150297197
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821732.91849999968, 834308.87729999982],
+            [821728.91370000038, 834309.65699999966],
+            [821730.59559999965, 834318.97340000048],
+            [821734.71410000045, 834318.15039999969],
+            [821732.91849999968, 834308.87729999982]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 338172,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139285,
+        "lotcode": 7940,
+        "lotnumber": 55,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 55",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673860",
+        "lotcsuid": "7940   55",
+        "st_area(shape)": 32.480831635000001,
+        "st_length(shape)": 25.86317515510542
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821666.43450000044, 834297.80859999917],
+            [821669.76620000042, 834297.15829999931],
+            [821667.84310000017, 834287.82589999959],
+            [821664.48029999994, 834288.50139999948],
+            [821666.43450000044, 834297.80859999917]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 339726,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138039,
+        "lotcode": 7940,
+        "lotnumber": 120,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 120",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674287",
+        "lotcsuid": "7940  120",
+        "st_area(shape)": 30.043806979999999,
+        "st_length(shape)": 24.988498402360776
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821739.54229999986, 834339.12859999947],
+            [821742.7257000003, 834338.47369999997],
+            [821740.8909, 834329.41669999994],
+            [821737.70629999973, 834330.06519999914],
+            [821739.54229999986, 834339.12859999947]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 350051,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140224,
+        "lotcode": 7940,
+        "lotnumber": 28,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 28",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673604",
+        "lotcsuid": "7940   28",
+        "st_area(shape)": 34.398415999999997,
+        "st_length(shape)": 26.271635973334405
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821719.47900000028, 834267.61999999918],
+            [821717.79600000009, 834258.21800000034],
+            [821714.25200000033, 834258.88199999928],
+            [821715.91299999971, 834268.23200000077],
+            [821719.47900000028, 834267.61999999918]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 351424,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140426,
+        "lotcode": 7940,
+        "lotnumber": 15,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 15",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983578",
+        "lotcsuid": "7940   15",
+        "st_area(shape)": 30.384142350000001,
+        "st_length(shape)": 25.395998961828248
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821683.69400000013, 834261.0859999992],
+            [821686.85639999993, 834260.49760000035],
+            [821685.11990000028, 834251.16440000013],
+            [821681.99100000039, 834251.73420000076],
+            [821683.69400000013, 834261.0859999992]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 353320,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1810060097,
+        "lotcode": 7940,
+        "lotnumber": 81,
+        "lotnumberalpha": null,
+        "sectioncode": "B",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 81 S.B",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "D2472142",
+        "lotcsuid": "7940   81    B",
+        "st_area(shape)": 32.220489000000001,
+        "st_length(shape)": 25.910225659841753
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821678.94000000041, 834317.8870000001],
+            [821682.23400000017, 834317.24000000022],
+            [821680.38300000038, 834307.82200000063],
+            [821677.08899999969, 834308.46900000051],
+            [821678.94000000041, 834317.8870000001]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 356277,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139206,
+        "lotcode": 7940,
+        "lotnumber": 51,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 51 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673819",
+        "lotcsuid": "7940   51    A",
+        "st_area(shape)": 27.900723155000001,
+        "st_length(shape)": 24.977745063722224
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821653.53199999966, 834300.42899999954],
+            [821656.46289999969, 834299.87050000019],
+            [821654.56759999972, 834290.49269999936],
+            [821654.56280000042, 834290.4682],
+            [821651.77500000037, 834291.03500000015],
+            [821653.53199999966, 834300.42899999954]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 358522,
+        "lastupdatedate": 1701734400000,
+        "lotid": 1800138882,
+        "lotcode": 7940,
+        "lotnumber": 80,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 80",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261060",
+        "lotcsuid": "7940   80",
+        "st_area(shape)": 32.966318360000002,
+        "st_length(shape)": 26.118600212607266
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821658.52599999961, 834310.75669999979],
+            [821660.05059999973, 834310.43879999965],
+            [821661.87399999984, 834310.05849999934],
+            [821659.94340000022, 834300.63670000061],
+            [821658.76090000011, 834300.86769999936],
+            [821656.58669999987, 834301.29250000045],
+            [821658.52599999961, 834310.75669999979]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 358925,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138622,
+        "lotcode": 7940,
+        "lotnumber": 128,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 128",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674324",
+        "lotcsuid": "7940  128",
+        "st_area(shape)": 41.148582249999997,
+        "st_length(shape)": 27.576762514941173
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821725.8786000004, 834319.8984999992],
+            [821730.16629999969, 834319.04959999956],
+            [821728.43319999985, 834309.81120000035],
+            [821724.14290000033, 834310.61879999936],
+            [821725.8786000004, 834319.8984999992]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 361450,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1810060098,
+        "lotcode": 7940,
+        "lotnumber": 81,
+        "lotnumberalpha": null,
+        "sectioncode": "A",
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 81 S.A",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "D2472131",
+        "lotcsuid": "7940   81    A",
+        "st_area(shape)": 32.201653,
+        "st_length(shape)": 25.906300700799854
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821675.64800000004, 834318.53399999999],
+            [821678.94000000041, 834317.8870000001],
+            [821677.08899999969, 834308.46900000051],
+            [821673.79700000025, 834309.11600000039],
+            [821675.64800000004, 834318.53399999999]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 361485,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138460,
+        "lotcode": 7940,
+        "lotnumber": 113,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 113",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674228",
+        "lotcsuid": "7940  113",
+        "st_area(shape)": 40.133762750000002,
+        "st_length(shape)": 27.385817838246474
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821754.34800000023, 834325.21000000089],
+            [821758.57180000003, 834324.36500000022],
+            [821758.03479999956, 834321.95199999958],
+            [821757.09460000042, 834317.77889999934],
+            [821757.07039999962, 834317.67159999907],
+            [821756.49170000013, 834315.10300000012],
+            [821752.40600000042, 834316.01300000027],
+            [821754.34800000023, 834325.21000000089]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 363285,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138901,
+        "lotcode": 7940,
+        "lotnumber": 79,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 79",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261053",
+        "lotcsuid": "7940   79",
+        "st_area(shape)": 33.3387381,
+        "st_length(shape)": 26.117748435781117
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821665.24299999978, 834309.3049999997],
+            [821663.38599999994, 834299.94999999925],
+            [821659.94340000022, 834300.63670000061],
+            [821661.87399999984, 834310.05849999934],
+            [821665.24299999978, 834309.3049999997]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 364845,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140477,
+        "lotcode": 7940,
+        "lotnumber": 12,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 12",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983560",
+        "lotcsuid": "7940   12",
+        "st_area(shape)": 32.808936099999997,
+        "st_length(shape)": 25.937907142404011
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821693.00459999964, 834259.35370000079],
+            [821696.35699999984, 834258.73000000045],
+            [821694.57679999992, 834249.36730000004],
+            [821691.15799999982, 834250.01700000092],
+            [821693.00459999964, 834259.35370000079]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 366460,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800140246,
+        "lotcode": 7940,
+        "lotnumber": 27,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 27",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673597",
+        "lotcsuid": "7940   27",
+        "st_area(shape)": 29.65580842,
+        "st_length(shape)": 25.4169374435353
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821710.98099999968, 834267.48479999974],
+            [821714.00719999988, 834266.91159999929],
+            [821712.22159999982, 834257.45639999956],
+            [821709.1930999998, 834258.0175999999],
+            [821710.98099999968, 834267.48479999974]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 368293,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800138434,
+        "lotcode": 7940,
+        "lotnumber": 124,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 124",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2674305",
+        "lotcsuid": "7940  124",
+        "st_area(shape)": 15.197747955000001,
+        "st_length(shape)": 16.184071913054968
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821727.86880000029, 834326.22440000065],
+            [821730.78699999955, 834325.64149999991],
+            [821729.81469999999, 834320.60620000027],
+            [821726.92069999967, 834321.18400000036],
+            [821727.86880000029, 834326.22440000065]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 377423,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800139435,
+        "lotcode": 7940,
+        "lotnumber": 59,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 59",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673908",
+        "lotcsuid": "7940   59",
+        "st_area(shape)": 35.02060109,
+        "st_length(shape)": 26.578198666307113
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821697.45820000023, 834292.92940000072],
+            [821696.14439999964, 834283.34080000035],
+            [821692.56089999992, 834283.87790000066],
+            [821693.85720000044, 834293.33779999986],
+            [821693.8713999996, 834293.44180000015],
+            [821697.45820000023, 834292.92940000072]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 377590,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800138338,
+        "lotcode": 7940,
+        "lotnumber": 107,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 107",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C6261078",
+        "lotcsuid": "7940  107",
+        "st_area(shape)": 62.899006964999998,
+        "st_length(shape)": 32.196207331204867
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821738.1202999996, 834328.47619999945],
+            [821736.36610000022, 834319.2304999996],
+            [821729.81469999999, 834320.60620000027],
+            [821730.78699999955, 834325.64149999991],
+            [821731.60209999979, 834329.86250000075],
+            [821738.1202999996, 834328.47619999945]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 377889,
+        "lastupdatedate": 1702512000000,
+        "lotid": 1800359314,
+        "lotcode": 7940,
+        "lotnumber": 42,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 42",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C2673687",
+        "lotcsuid": "7940   42",
+        "st_area(shape)": 29.87251509,
+        "st_length(shape)": 25.437178927744338
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821696.58700000029, 834281.74560000002],
+            [821699.82600000035, 834281.27800000086],
+            [821698.22300000023, 834271.80100000091],
+            [821695.30769999977, 834272.22399999946],
+            [821696.58700000029, 834281.74560000002]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 378656,
+        "lastupdatedate": 1702339200000,
+        "lotid": 1800369803,
+        "lotcode": 7940,
+        "lotnumber": 116,
+        "lotnumberalpha": null,
+        "sectioncode": null,
+        "lottype": "OSL",
+        "cislotdisplayname": "TTTL 116",
+        "lotcodedisplay": "DD 115 TTTL",
+        "prn": "C4983677",
+        "lotcsuid": "7940  116",
+        "st_area(shape)": 42.964763499999997,
+        "st_length(shape)": 30.022784762013455
+      },
+      "geometry": {
+        "rings": [
+          [
+            [821760.07500000019, 834335.16000000015],
+            [821758.46800000034, 834327.48599999957],
+            [821754.75899999961, 834328.26700000092],
+            [821755.56699999981, 834332.10300000012],
+            [821752.22900000028, 834332.81100000069],
+            [821753.01099999994, 834336.58400000073],
+            [821756.375, 834335.93799999915],
+            [821760.07500000019, 834335.16000000015]
+          ]
+        ]
+      }
+    }
+  ]
+}
